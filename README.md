@@ -4,16 +4,21 @@
 
 ## Sou Desenvolvedor e Estudante!!
 
-### Skills:
-
 - Desenvolvimento Mobile utilizando Java
 - Desenvolvimento na Plataforma em PowerApps
 - Aperfeiçoando Desenvolvimento Web
 - Aprendendo Flutter e WordPress
 
 <p>
+  
+  **Linguagens e ferramentas**
 
 <p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="java" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-plain.svg" alt="androidstudio" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-plain.svg" alt="flutter" width="40" height="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40" />
+  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
@@ -25,8 +30,6 @@
   
 --- 
 ### Entre em contato comigo:
-
-- 📫 Se quiser pode enviar um email para lgnunes.ck@gmail.com
 
 <a href="https://www.linkedin.com/in/luiz-gustavo-120503138/" target="_blank">
 <img align="center" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
@@ -40,5 +43,3 @@
 <p>
 <img align="left" alt="Status Github LGustavoNS" src="https://github-readme-stats.vercel.app/api?username=LGustavoNS&show_icons=true&hide_border=true" />
 </p>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LGustavoNS" alt="Luiz Gustavo" /> </p>
