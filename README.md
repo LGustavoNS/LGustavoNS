@@ -4,8 +4,8 @@
 
 ## Sou Desenvolvedor e Estudante!!
 
-- Desenvolvimento Mobile utilizando Java
-- Desenvolvimento na Plataforma em PowerApps
+- Desenvolvimento Mobile utilizando Linguagem Java
+- Desenvolvimento na Plataforma PowerApps
 - Aperfeiçoando Desenvolvimento Web
 - Aprendendo Flutter e WordPress
 
