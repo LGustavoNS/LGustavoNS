@@ -2,8 +2,9 @@
 
 ### Olá, Sou o Luiz Gustavo 👋
 
-## Sou Desenvolvedor e Estudante!!
+## Sou Desenvolver Mobile & Analista de Dados Power Platorm!!
 
+- Desenvolvimento utilizando as ferramentas da Power Platorm. (Power Apps, Power Automate, Power Virtual Agents, Sharepoint, Dataverse e Dynamics)
 - Desenvolvimento Mobile utilizando Linguagem Java
 - Desenvolvimento de aplicações em Power Platform
 - Aperfeiçoando Desenvolvimento Web
