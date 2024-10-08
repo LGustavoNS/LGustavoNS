@@ -6,9 +6,9 @@
 
 - Desenvolvimento utilizando as ferramentas da Power Platorm. (Power Apps, Power Automate, Power Virtual Agents, Sharepoint, Dataverse e Dynamics)
 - Desenvolvimento Mobile utilizando Linguagem Java
-- Desenvolvimento de aplicações em Power Platform
-- Aperfeiçoando Desenvolvimento Web
-- Aprendendo Flutter e WordPress
+- Desenvolvimento de sites (WordPress, Elementor)
+- Desenvolvimento de prototipos (FIGMA, UX/UI)
+- Aprendendo Flutter e Python
 
 <p>
   
